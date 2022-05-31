@@ -27,6 +27,8 @@
 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunini&layout=compact)](https://github.com/nahyunini/github-readme-stats)
+
 
 #### Tools
 <!-- <p>
